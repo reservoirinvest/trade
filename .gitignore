@@ -1,0 +1,19 @@
+# Ignore folders
+__pycache__
+venv
+.vscode
+
+# Ignore files
+log/*.*
+*.cfg
+data/*/*.pkl
+z*.*
+*.env
+*checkpoint.*
+.ipynb_checkpoints
+
+# ignore WIP files
+data/baseclasses.py
+data/maps.yml
+docs/_story.md
+
